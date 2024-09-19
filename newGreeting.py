@@ -1,0 +1,1 @@
+print("Hola gios! centos partha pico")
